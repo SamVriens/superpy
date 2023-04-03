@@ -1,0 +1,5 @@
+id,product_name,buy_date,buy_price,expiration_date
+1,orange,31-03-2020,1.45,31-03-2040
+2,apple,31-08-2020,6.99,31-09-2040
+3,apple,31-09-2020,6.99,31-09-2040
+4,cake,05-05-2020,7.5,08-08-2040
